@@ -21,7 +21,7 @@ const options = {
 
 flatpickr("#datetime-picker", options);
 
-function startTimer(endDate) {
+function startTimer(endDate) { 
   const timer = document.querySelector(".timer");
   const daysElem = timer.querySelector("[data-days]");
   const hoursElem = timer.querySelector("[data-hours]");
