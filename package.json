@@ -1,7 +1,7 @@
 {
   "name": "DeveloperStevenMarin",
   "version": "2.0.0",
-  "description": "",
+  "description": "Here's a description",
   "homepage": "https://developerstevenmarin.github.io/goit-js-hw-09/",
   "scripts": {
     "start": "parcel src/*.html",
